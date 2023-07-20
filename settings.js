@@ -28,7 +28,7 @@ global.CAPTION = '*© OPENAI CHATGPT ON WA BY ARIYAN AHMED*'
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = ''
+global.SESSION_ID = 'elisa_md@;;;sdFllY6L#bzyT_Sukr37NgzvX6bB6QmVjx3iOLIaUnAul35xNL1w'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
